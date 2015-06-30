@@ -1,5 +1,5 @@
 # gitskills
-Creating a new branch is quick and simple.
+Ceating a new branch is quick and simple.
 master and lzybranch
 lzybranch
 branch append
